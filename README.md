@@ -37,13 +37,20 @@ Para reproducir los análisis en Python:
 pip install -r requirements.txt
 
 
+<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/1450a351-3eb4-4248-8efb-50f0d97bffa8" />
+<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/46fcfa7d-ef54-4754-9e29-4aac9da9bb0a" />
+<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/44e11810-6162-42b4-bec4-c8cad639a463" />
+<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/ee126cec-0f3e-4abc-b734-63434bd9dc4a" />
+<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/4c214f5a-5849-4400-8ba9-5dbc0a46c840" />
+<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/817cfdc8-b1a3-4723-88a6-bbcc876a3e87" />
+<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/6db75e02-2831-4324-996e-0c00540a3e17" />
 
-<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/f72c9ff6-fe78-44d8-bee4-cc478becafb6" />
-<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/a0ac33d7-7053-4da2-92e2-2792f770b63e" />
-<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/74e21f7c-5e77-4794-a971-92c6600965d6" />
-<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/650ade4c-0fe7-4b80-837c-d3f555f01baf" />
-<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/25623d46-3fe9-46cc-b258-92fd738ca239" />
-<img width="1971" height="1125" alt="image" src="https://github.com/user-attachments/assets/3c2b65a8-7075-4567-b93e-86c793b91775" />
+
+
+
+
+
+
 
 ## Autora
 
