@@ -63,17 +63,14 @@ pip install -r requirements.txt
 
 <img width="853" height="479" alt="image" src="https://github.com/user-attachments/assets/488ab720-b173-4263-bc82-4ea6d51ebd8c" />
 
+<img width="852" height="478" alt="image" src="https://github.com/user-attachments/assets/1f1e35b8-99cc-44d9-8fea-c8aae7baad50" />
 
-<img width="851" height="478" alt="image" src="https://github.com/user-attachments/assets/4fb56cb0-1b9d-446c-8f54-3c39ee69c6ab" />
+<img width="852" height="479" alt="image" src="https://github.com/user-attachments/assets/acb5b591-c91d-4444-b971-2767a954398c" />
 
+<img width="854" height="480" alt="image" src="https://github.com/user-attachments/assets/9fcd4dbe-57c5-4165-8ce5-71e6dfbd3149" />
 
-<img width="854" height="479" alt="image" src="https://github.com/user-attachments/assets/0fc157c0-bcb0-4b2c-956e-e48757b03659" />
+<img width="853" height="478" alt="image" src="https://github.com/user-attachments/assets/4f11171a-12d6-4164-842e-564e234faf59" />
 
-
-<img width="852" height="476" alt="image" src="https://github.com/user-attachments/assets/924c1cfb-97ef-4ea5-9ee7-c3609d957a49" />
-
-
-<img width="850" height="477" alt="image" src="https://github.com/user-attachments/assets/7adb604d-218b-4db4-a200-5eae964779c4" />
 
 
 
