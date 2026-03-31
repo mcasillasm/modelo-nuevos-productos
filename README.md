@@ -1,35 +1,59 @@
-🧠 Análisis Predictivo de Nuevos Productos
+# IBP New Product Introduction (NPI) – Strategic Portfolio Decisions
 
+Este proyecto representa un **New Product Introduction (NPI) Review dentro del proceso de Integrated Business Planning (IBP)**, enfocado en evaluar la viabilidad, impacto y prioridad estratégica de nuevos productos antes de su lanzamiento.
 
-Este proyecto utiliza ciencia de datos y machine learning para analizar y predecir el éxito de nuevos productos. Se busca apoyar la toma de decisiones estratégicas durante la etapa 1 del proceso de IBP: Revisión de Producto, facilitando una gestión más inteligente, priorizada y basada en datos para las áreas de Marketing, R&D y Planeación.
+## Contexto de negocio
+Los lanzamientos de nuevos productos suelen fracasar no por falta de ideas, sino por falta de decisiones integradas entre comercial, supply y finanzas.
 
+Este análisis transforma el NPI en una **decisión ejecutiva gobernada**, no en una apuesta.
 
-🧩 Problema que resolvemos
+## Problema que resuelve
+- Lanzamientos basados en optimismo comercial
+- Falta de visibilidad del impacto financiero
+- Riesgo de canibalización no evaluado
+- NPI desconectado del portafolio y capacidad
 
-En muchas organizaciones, la gestión de nuevos productos suele carecer de criterios objetivos para priorizar, seleccionar o evaluar iniciativas. Esto genera dudas como:
+## Enfoque estratégico
+El enfoque no es predecir con exactitud, sino **tomar decisiones informadas** considerando:
+- Escenarios de demanda
+- Rentabilidad esperada
+- Impacto en portafolio existente
+- Riesgo operativo y financiero
 
+Diseñado desde el rol de **Strategic Planning & IBP Lead**.
 
-•	¿Cuál producto tiene mayor probabilidad de éxito?
-•	¿Qué perfil de producto debemos impulsar más?
-•	¿Cómo orientar los recursos de R&D o Marketing?
-•	¿Qué tan alineadas están las iniciativas con la estrategia comercial?
+## Solución
+El modelo integra:
+- Proyección de demanda para nuevos productos
+- Análisis de canibalización
+- Evaluación de margen y rentabilidad
+- Simulación de escenarios
+- Reglas estructuradas de Go / No-Go
 
-Al incorporar análisis predictivo y visualizaciones inteligentes, este proyecto permite:
+## Impacto en indicadores IBP
+- Reducción de riesgo en lanzamientos
+- Mejora en asignación de recursos
+- Alineación entre Comercial, Supply y Finanzas
+- Mayor tasa de éxito de NPI
 
-✅ Identificar patrones de éxito de lanzamientos anteriores
-✅ Priorizar iniciativas con mayor potencial de rentabilidad o conversión
-✅ Brindar visibilidad por responsable, cliente, categoría y canal
-✅ Enlazar datos históricos con decisiones futuras en el marco del IBP
+## Decisiones habilitadas
+- ¿Se lanza o no el producto?
+- ¿En qué momento?
+- ¿Con qué alcance?
+- ¿Qué impacto tendrá en el portafolio actual?
 
-🔍 Análisis realizados
+## Relación con IBP
+Soporta directamente:
+- New Product Introduction Review
+- Portfolio Review
+- Demand Review
+- Executive IBP Review
 
-•	Preparación y limpieza de datos
-•	Feature engineering
-•	Codificación de variables categóricas
-•	Modelado con Random Forest
-•	Matriz de correlación
-•	Interpretación de importancia de variables
-•	Visualizaciones clave en Python y Power BI
+## Rol desempeñado
+Strategic Planning & IBP Lead:
+- Diseño del marco de evaluación NPI
+- Definición de criterios Go / No-Go
+- Integración estratégica del NPI al IBP
 
 📦 Requisitos
 
